@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.aaru{
+  font-size: 20px;
+  
+  color:blue;
+  font-weight: lighter;
+  
+  }
+
+  .mt-0{
+    font-family: 'Sacramento', cursive;
+    font-size: 25px;
+  }
+.card-title{
+  color: black;
+  font-weight: lighter;
+}
+ .bi-suit-heart-fill{
+   color: rgb(241, 64, 64);
+ }
+ .nav-link{
+   color: black;
+ }
